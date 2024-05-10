@@ -1,0 +1,32 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.10-7.0.10~ubuntu22.04.1*%
+%TF.CreationDate,2024-03-22T20:20:15-04:00*%
+%TF.ProjectId,mechanicalkeyboard-touchid-hub,6d656368-616e-4696-9361-6c6b6579626f,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.10-7.0.10~ubuntu22.04.1) date 2024-03-22 20:20:15*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.000000X1.500000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,JP2*%
+X76708000Y-39116000D03*
+X78008000Y-39116000D03*
+X79308000Y-39116000D03*
+%TD*%
+%TO.C,JP3*%
+X85404000Y-39116000D03*
+X84104000Y-39116000D03*
+X82804000Y-39116000D03*
+%TD*%
+%TO.C,JP1*%
+X70836000Y-39116000D03*
+X72136000Y-39116000D03*
+X73436000Y-39116000D03*
+%TD*%
+M02*

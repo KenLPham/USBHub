@@ -1,0 +1,31 @@
+### Footprint positions - created on Fri 22 Mar 2024 08:24:39 PM EDT ###
+### Printed by KiCad version 7.0.10-7.0.10~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                                           PosX       PosY       Rot  Side
+C1        4.7u      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    59.5895   -39.6240    0.0000  top
+C2        0.1u      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   100.7140   -44.8575   90.0000  top
+C3        0.1u      C_0603_1608Metric_Pad1.08x0.95mm_HandSolder   100.7140   -48.6145  -90.0000  top
+C4        27p       C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    67.0560   -49.7840   90.0000  top
+C5        27p       C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    59.4360   -42.8255  -90.0000  top
+C6        0.47u     C_0603_1608Metric_Pad1.08x0.95mm_HandSolder    50.6465   -39.6240    0.0000  top
+R1        1.5k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    51.3080   -45.8235   90.0000  top
+R2        27        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    48.6925   -46.7360    0.0000  top
+R3        27        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    48.6925   -43.1800    0.0000  top
+R4        27        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    88.3920   -50.1885  -90.0000  top
+R5        27        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    86.8680   -50.1885  -90.0000  top
+R6        27        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    94.6125   -40.6760    0.0000  top
+R7        27        R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    94.6125   -42.2000    0.0000  top
+R8        15k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   108.7120   -43.7915  -90.0000  top
+R9        15k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder   108.7120   -48.8715   90.0000  top
+R10       15k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    68.5800   -52.2205  -90.0000  top
+R11       15k       R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    52.8320   -50.8000    0.0000  top
+R12       1.5k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    55.7765   -43.6880    0.0000  top
+R13       1.5k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    82.8125   -42.3000    0.0000  top
+R14       1.5k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    89.3000   -43.2125   90.0000  top
+R15       1.5k      R_0603_1608Metric_Pad0.98x0.95mm_HandSolder    93.7000   -51.2000  -90.0000  top
+U1        TUSB2036  LQFP-32_7x7mm_P0.8mm                           76.9560   -46.6250   90.0000  top
+U2        TPS76333  SOT-23-5                                       54.9855   -40.5740    0.0000  top
+U3        TPS2042D  SOIC-8_3.9x4.9mm_P1.27mm                       95.5690   -46.6090    0.0000  top
+Y1        6MHz      Crystal_SMD_7050-4Pin_7.0x5.0mm                63.1660   -45.8180  -90.0000  top
+## End
